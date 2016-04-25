@@ -1,0 +1,28 @@
+name: Bob van Luijt
+favicon: null
+layout_spectrum: 0.33759907516650856
+typography_spectrum: 0.9056142237968743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.22550467937253416
+  lightness: 0.912917569745332
+  saturation: 0.7001025376375765
+  rhythmicContrast: 0.846825752640143
+purpose: []
